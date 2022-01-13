@@ -42,6 +42,25 @@ For more information about Pandas, click [here](https://pandas.pydata.org/)
 
 For more information about hvplot and geoviews, click [here](https://hvplot.holoviz.org/)
 
+
+---
+
+
+## Usage
+
+
+The following images can be seen when viewing this project:
+
+![Bar Graph of Housing Unit Prices per Year in San Francisco](https://github.com/EmilyBertani/Challenge_6/blob/main/Bar_graph.png)
+
+![Line Graph of Sale Price per Square Foot and Gross Rent Comparisons](https://github.com/EmilyBertani/Challenge_6/blob/main/Line_graph.png)
+
+![Line Graph of Sale Price per Square Foot and Gross Rent Comparisons by Neighborood](https://github.com/EmilyBertani/Challenge_6/blob/main/Line_graph_widget_1.png)
+
+![Line Graph of Sale Price per Square Foot and Gross Rent Comparisons by Neighborood](https://github.com/EmilyBertani/Challenge_6/blob/main/Line_graph_widget_2.png)
+
+![Map View of San Francisco Comparing Sale Price per Square Foot and Gross Rent](https://github.com/EmilyBertani/Challenge_6/blob/main/Map_view.png)
+
 ---
 
 
